@@ -1,0 +1,15 @@
+C:\Projetos\InventoryManager\bin\Debug\net7.0\InventoryManager.exe
+C:\Projetos\InventoryManager\bin\Debug\net7.0\InventoryManager.deps.json
+C:\Projetos\InventoryManager\bin\Debug\net7.0\InventoryManager.runtimeconfig.json
+C:\Projetos\InventoryManager\bin\Debug\net7.0\InventoryManager.dll
+C:\Projetos\InventoryManager\bin\Debug\net7.0\InventoryManager.pdb
+C:\Projetos\InventoryManager\obj\Debug\net7.0\InventoryManager.csproj.AssemblyReference.cache
+C:\Projetos\InventoryManager\obj\Debug\net7.0\InventoryManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\InventoryManager\obj\Debug\net7.0\InventoryManager.AssemblyInfoInputs.cache
+C:\Projetos\InventoryManager\obj\Debug\net7.0\InventoryManager.AssemblyInfo.cs
+C:\Projetos\InventoryManager\obj\Debug\net7.0\InventoryManager.csproj.CoreCompileInputs.cache
+C:\Projetos\InventoryManager\obj\Debug\net7.0\InventoryManager.dll
+C:\Projetos\InventoryManager\obj\Debug\net7.0\refint\InventoryManager.dll
+C:\Projetos\InventoryManager\obj\Debug\net7.0\InventoryManager.pdb
+C:\Projetos\InventoryManager\obj\Debug\net7.0\InventoryManager.genruntimeconfig.cache
+C:\Projetos\InventoryManager\obj\Debug\net7.0\ref\InventoryManager.dll
